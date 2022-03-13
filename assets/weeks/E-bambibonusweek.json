@@ -1,0 +1,58 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekBefore": "bambiweek",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		 [
+			"Old-Corn-Theft",
+			"bambi",
+			[
+				50,
+				224,
+				79
+			]
+		],
+		[
+			"Supernovae",
+			"bambijoke",
+			[
+				50,
+				224,
+				79
+			]
+		],
+		[
+			"Glitch",
+			"bambijoke",
+			[
+				50,
+				224,
+				79
+			]
+		],
+		[
+			"Mealie",
+			"bambi",
+			[
+				50,
+				224,
+				79
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bambibonussongs"
+}
